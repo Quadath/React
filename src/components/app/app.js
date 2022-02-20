@@ -18,7 +18,7 @@ const App = () => {
     return (
     <div className="app">
         <AppHeader/>
-        <div className='search-panel'>
+        <div className='search-panel d-flex'>
             <SearchPanel/>
             <PostStatusFilter/>
         </div> 
