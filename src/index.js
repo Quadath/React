@@ -5,7 +5,6 @@ import App from './components/app/';
 import reportWebVitals from './reportWebVitals';
 
 
-
 ReactDOM.render(
   <App/>,
   document.getElementById('root')
